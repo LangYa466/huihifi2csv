@@ -1,0 +1,29 @@
+URL: https://eval.huihifi.com/
+
+<!DOCTYPE html><html lang="en"><head>
+    <script src="https://eval.huihifi.com/public-path.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sonic Architecture</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600&amp;family=JetBrains+Mono:wght@300;400&amp;display=swap" rel="stylesheet">
+    <style>
+      /* Critical height inheritance */
+      html, body, #root {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        font-family: 'Inter', sans-serif;
+        background-color: #050505;
+        color: #e5e5e5;
+        overflow-x: auto;
+        overflow-y: hidden;
+      }
+      .font-mono {
+        font-family: 'JetBrains Mono', monospace;
+      }
+      /* Custom Scrollbar for a cleaner look */
+   

@@ -1,0 +1,11 @@
+{
+  "availableTuningModes_type": "object",
+  "is_array": true,
+  "first_item_keys": [
+    "0",
+    "1",
+    "2",
+    "3"
+  ],
+  "first_item_sample": "\"丹拿特调\""
+}

@@ -1,0 +1,5 @@
+URL: https://hm.baidu.com/hm.js?7f93e3da22ce7fae23bbb1eb29ebda9c
+
+(function(){var h={},mt={},c={id:"7f93e3da22ce7fae23bbb1eb29ebda9c",dm:["huihifi.com"],js:"tongji.baidu.com/hm-web/js/",etrk:[],cetrk:[],cptrk:[],icon:'',ctrk:[],vdur:1800000,age:31536000000,qiao:0,pt:0,spa:1,aet:'',hca:'400309D752130790',ab:'0',v:1};var s=void 0,t=!0,u=null,x=!1;mt.cookie={};mt.cookie.set=function(e,a,b){var k;b.C&&(k=new Date,k.setTime(k.getTime()+b.C));document.cookie=e+"="+a+(b.domain?"; domain="+b.domain:"")+(b.path?"; path="+b.path:"")+(k?"; expires="+k.toGMTString():"")+(b.ec?"; secure":"")};mt.cookie.get=function(e){return(e=RegExp("(^| )"+e+"=([^;]*)(;|$)").exec(document.cookie))?e[2]:u};
+mt.cookie.rb=function(e,a){try{var b="Hm_ck_"+ +new Date;mt.cookie.set(b,"42",{domain:e,path:a,C:s});var k="42"===mt.cookie.get(b)?"1":"0";mt.cookie.set(b,"",{domain:e,path:a,C:-1});return k}catch(d){return"0"}};mt.event={};mt.event.c=function(e,a,b,k){e.addEventListener?e.addEventListener(a,b,k||x):e.attachEvent&&e.attachEvent("on"+a,function(d){b.call(e,d)})};
+(function(){v

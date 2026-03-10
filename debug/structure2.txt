@@ -1,0 +1,102 @@
+{
+  "uuid": "5f8a2211-1aab-4a17-89c3-26b5c7c1ae4d",
+  "title": "OPPO enco X3",
+  "brand": {
+    "title": "OPPO"
+  },
+  "categoryName": "随身耳机",
+  "tuningMode": "澎湃低音",
+  "availableTuningModes": [
+    "丹拿特调",
+    "澎湃低音",
+    "纯享人声",
+    "至臻原声",
+    "高清解析"
+  ],
+  "scores": {
+    "人声": "[Array of 9 objects]",
+    "吉他类": "[Array of 10 objects]",
+    "弦乐器": "[Array of 11 objects]",
+    "打击乐器": "[Array of 14 objects]",
+    "木管乐器": "[Array of 14 objects]",
+    "民族乐器": [
+      {
+        "name": "古筝_主体音色与鼻音",
+        "range": "500-1500Hz",
+        "score": -1.35
+      },
+      {
+        "name": "古筝_琴弦的拨弦质感与清晰度",
+        "range": "2000-6000Hz",
+        "score": -0.24
+      },
+      {
+        "name": "古筝_琴弦的高频泛音与\"珠玉\"般的光泽感",
+        "range": "8000-20000Hz",
+        "score": 0.47
+      },
+      {
+        "name": "唢呐_核心的\"高亢\"、尖锐与穿透力",
+        "range": "1500-3000Hz",
+        "score": -2.17
+      },
+      {
+        "name": "唢呐_金属声与嘈杂感 (需要控制)",
+        "range": "4000-10000Hz",
+        "score": 1.92
+      }
+    ],
+    "贝斯": [
+      {
+        "name": "电贝斯_丰满度与身体感 (Body)",
+        "range": "100-200Hz",
+        "score": 1.15
+      },
+      {
+        "name": "电贝斯_第一泛音，影响音符清晰度与力度",
+        "range": "250-500Hz",
+        "score": -0.51
+      },
+      {
+        "name": "电贝斯_拨弦的拍击感 (Slap)",
+        "range": "700-1000Hz",
+        "score": -1.26
+      },
+      {
+        "name": "电贝斯_琴弦的金属声与指弹噪音 (Definition)",
+        "range": "2000-5000Hz",
+        "score": -0.65
+      }
+    ],
+    "铜管乐器": "[Array of 8 objects]",
+    "键盘乐器": [
+      {
+        "name": "钢琴_丰满度与实体感",
+        "range": "80-250Hz",
+        "score": 1.4
+      },
+      {
+        "name": "钢琴_轰鸣感/浑浊感 (可适当衰减)",
+        "range": "250-500Hz",
+        "score": -0.51
+      },
+      {
+        "name": "钢琴_\"塑料感\"区域 (可适当衰减)",
+        "range": "800-1200Hz",
+        "score": -1.26
+      },
+      {
+        "name": "钢琴_明亮度、攻击性与临场感",
+        "range": "2000-5000Hz",
+        "score": -0.65
+      },
+      {
+        "name": "钢琴_琴槌噪音与空气感",
+        "range": "8000-20000Hz",
+        "score": 0.47
+      }
+    ],
+    "频段": "[Array of 7 objects]",
+    "游戏": "[Array of 18 objects]"
+  }
+}
